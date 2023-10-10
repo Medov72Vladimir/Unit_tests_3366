@@ -16,7 +16,7 @@ public class task1Test {
 
     @BeforeEach
     public void setup() {
-        // Инициализация ресурсов
+        // Инициализация ресурсов.
     }
 
     @AfterEach

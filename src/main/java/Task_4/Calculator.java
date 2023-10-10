@@ -1,7 +1,7 @@
 package Task_4;
 
 public class Calculator {
-    // Метод для сложения двух чисел
+    // Метод сложения двух чисел
     public int add(int a, int b) {
         return a + b;
     }

@@ -88,7 +88,7 @@ class CalculatorTest {
     }
 
     @Test
-    @DisplayName("Проверка с использованием лямбда-выражения для сообщения")
+    @DisplayName("Проверка с использованием лямбда-выражения для сообщения.")
     void testAssertWithLambdaMessage() {
         assertEquals(4, calculator.add(2, 2), () -> "2 + 2 должно быть равно 4");
     }
