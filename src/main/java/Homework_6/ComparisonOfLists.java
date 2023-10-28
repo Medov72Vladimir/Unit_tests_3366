@@ -21,7 +21,7 @@ public class ComparisonOfLists {
         } else if (avg1 < avg2) {
             System.out.println("Второй список имеет большее среднее значение");
         } else {
-            System.out.println("Средние значения равны");
+            System.out.println("Средние значения списков равны");
         }
     }
     static List<Integer> generateRandomList(int size) {
